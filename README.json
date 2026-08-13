@@ -1,0 +1,5002 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ish",
+          "description": "Linux shell for iOS. https://ish.app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T07:29:21Z",
+            "owner": "ish-app",
+            "repo": "ish",
+            "stars": 20301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blink Shell",
+          "description": "Blink Mobile Shell for iOS (Mosh based) https://blink.sh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-29T21:10:17Z",
+            "owner": "blinksh",
+            "repo": "blink",
+            "stars": 6893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yetty",
+          "description": "New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:34:38Z",
+            "owner": "zokrezyl",
+            "repo": "yetty",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "iOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "A terminal for a more modern age (formerly Terminus) https://tabby.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:03:12Z",
+            "owner": "Eugeny",
+            "repo": "tabby",
+            "stars": 73892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "A cross-platform, GPU-accelerated terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eDEX-UI",
+          "description": "[DEPRECATED] A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-19T22:38:47Z",
+            "owner": "GitSquared",
+            "repo": "edex-ui",
+            "stars": 45042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper",
+          "description": "A terminal built on web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T11:03:02Z",
+            "owner": "vercel",
+            "repo": "hyper",
+            "stars": 44691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kitty",
+          "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:07:46Z",
+            "owner": "kovidgoyal",
+            "repo": "kitty",
+            "stars": 34382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wezterm",
+          "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. https://wezfurlong.org/wezterm/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upterm",
+          "description": "[DEPRECATED] A terminal emulator for the 21st century.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-05-20T17:42:14Z",
+            "owner": "railsware",
+            "repo": "upterm",
+            "stars": 19071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electerm",
+          "description": "Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). https://electerm.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:12:47Z",
+            "owner": "electerm",
+            "repo": "electerm",
+            "stars": 14737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosh",
+          "description": "Mobile Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-22T20:20:13Z",
+            "owner": "mobile-shell",
+            "repo": "mosh",
+            "stars": 14333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rio",
+          "description": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:46:11Z",
+            "owner": "raphamorim",
+            "repo": "rio",
+            "stars": 7332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilix",
+          "description": "Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. https://gnunn1.github.io/tilix-web/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2026-07-01T19:01:40Z",
+            "owner": "gnunn1",
+            "repo": "tilix",
+            "stars": 5711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darktile",
+          "description": "[DEPRECATED] A GPU rendered terminal emulator designed for tiling window managers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-19T20:26:56Z",
+            "owner": "liamg",
+            "repo": "darktile",
+            "stars": 3084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extraterm",
+          "description": "The swiss army chainsaw of terminal emulators. https://extraterm.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T17:32:51Z",
+            "owner": "sedwards2009",
+            "repo": "extraterm",
+            "stars": 2820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termite",
+          "description": "[OBSOLETED BY ALACRITTY] A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-05-07T11:46:48Z",
+            "owner": "thestinger",
+            "repo": "termite",
+            "stars": 2707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notty",
+          "description": "[DEPRECATED] A new kind of terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2017-03-27T19:50:28Z",
+            "owner": "withoutboats",
+            "repo": "notty",
+            "stars": 2326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilda",
+          "description": "A Gtk based drop down terminal for Linux and Unix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-10T14:55:14Z",
+            "owner": "lanoxx",
+            "repo": "tilda",
+            "stars": 1340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTerminal",
+          "description": "A lightweight Qt-based terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:34:37Z",
+            "owner": "lxqt",
+            "repo": "qterminal",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaft",
+          "description": "yet another framebuffer terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-05T05:38:06Z",
+            "owner": "uobikiemukot",
+            "repo": "yaft",
+            "stars": 681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal",
+          "description": "Terminal emulator designed for elementary OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-07T01:01:47Z",
+            "owner": "elementary",
+            "repo": "terminal",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wayst",
+          "description": "A simple terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T08:34:20Z",
+            "owner": "91861",
+            "repo": "wayst",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnome Terminal",
+          "description": "A terminal emulator for GNOME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T19:05:00Z",
+            "owner": "GNOME",
+            "repo": "gnome-terminal",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fyne Terminal",
+          "description": "A graphical terminal emulator for Linux using Fyne",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-04T14:27:13Z",
+            "owner": "fyne-io",
+            "repo": "terminal",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bobcat",
+          "description": "A modern, feature-rich, cross-platform terminal emulator built with U++ framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T20:08:37Z",
+            "owner": "ismail-yilmaz",
+            "repo": "Bobcat",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kermit",
+          "description": "A VTE-based, simple and froggy terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-10T19:16:15Z",
+            "owner": "orhun",
+            "repo": "kermit",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termit",
+          "description": "Terminal emulator based on VTE library with Lua scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-23T05:47:55Z",
+            "owner": "nonstop",
+            "repo": "termit",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yetty",
+          "description": "New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:34:38Z",
+            "owner": "zokrezyl",
+            "repo": "yetty",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zt",
+          "description": "A minimal, ultra-fast terminal emulator written in Zig. 1,382 MB/s throughput, 3.5ms startup, 4.3MB RSS. Supports fbdev and X11 backends with 59K+ embedded glyphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-07-04T07:18:38Z",
+            "owner": "midasdf",
+            "repo": "zt",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OdyTTY",
+          "description": "A GPU-rendered terminal emulator for Linux (Rust/wgpu) with a theme builder, 100 themes, bloom/CRT/retro effects, and live in-app config. https://odytty.unfinished-works.com/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:15:32Z",
+            "owner": "ghreprimand",
+            "repo": "odytty",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinkTerm",
+          "description": "Self-hosted web terminal where AI shares your PTY session; in-terminal chat, SSH, and an HTTP Agent API for remote ops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T16:59:36Z",
+            "owner": "Cznorth",
+            "repo": "winkterm",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sinclair",
+          "description": "A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. https://wess.io/sinclair/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T14:57:43Z",
+            "owner": "wess",
+            "repo": "sinclair",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro",
+          "description": "A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2026-03-15T17:44:11Z",
+            "owner": "AnmiTaliDev",
+            "repo": "kiro",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zutty",
+          "description": "Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.",
+          "children": []
+        }
+      ],
+      "title": "Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "A terminal for a more modern age (formerly Terminus) https://tabby.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:03:12Z",
+            "owner": "Eugeny",
+            "repo": "tabby",
+            "stars": 73892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "A cross-platform, GPU-accelerated terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eDEX-UI",
+          "description": "[DEPRECATED] A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-19T22:38:47Z",
+            "owner": "GitSquared",
+            "repo": "edex-ui",
+            "stars": 45042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper",
+          "description": "A terminal built on web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T11:03:02Z",
+            "owner": "vercel",
+            "repo": "hyper",
+            "stars": 44691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kitty",
+          "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:07:46Z",
+            "owner": "kovidgoyal",
+            "repo": "kitty",
+            "stars": 34382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wezterm",
+          "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. https://wezfurlong.org/wezterm/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cool-retro-term",
+          "description": "A good looking terminal emulator which mimics the old cathode display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2026-05-31T10:12:54Z",
+            "owner": "Swordfish90",
+            "repo": "cool-retro-term",
+            "stars": 25908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upterm",
+          "description": "[DEPRECATED] A terminal emulator for the 21st century.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-05-20T17:42:14Z",
+            "owner": "railsware",
+            "repo": "upterm",
+            "stars": 19071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTerm2",
+          "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-08T07:13:09Z",
+            "owner": "gnachman",
+            "repo": "iTerm2",
+            "stars": 17930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electerm",
+          "description": "Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). https://electerm.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:12:47Z",
+            "owner": "electerm",
+            "repo": "electerm",
+            "stars": 14737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosh",
+          "description": "Mobile Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-22T20:20:13Z",
+            "owner": "mobile-shell",
+            "repo": "mosh",
+            "stars": 14333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rio",
+          "description": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:46:11Z",
+            "owner": "raphamorim",
+            "repo": "rio",
+            "stars": 7332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extraterm",
+          "description": "The swiss army chainsaw of terminal emulators. https://extraterm.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T17:32:51Z",
+            "owner": "sedwards2009",
+            "repo": "extraterm",
+            "stars": 2820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminology",
+          "description": "The best terminal emulator based on the Enlightenment Foundation Libraries. https://www.enlightenment.org/about-terminology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-11T15:35:15Z",
+            "owner": "borisfaure",
+            "repo": "terminology",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bobcat",
+          "description": "A modern, feature-rich, cross-platform terminal emulator built with U++ framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T20:08:37Z",
+            "owner": "ismail-yilmaz",
+            "repo": "Bobcat",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yetty",
+          "description": "New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:34:38Z",
+            "owner": "zokrezyl",
+            "repo": "yetty",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conterm",
+          "description": "A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T22:21:35Z",
+            "owner": "mahdiarfrm",
+            "repo": "conterm",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termbar",
+          "description": "TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-10-14T17:23:14Z",
+            "owner": "vetelko",
+            "repo": "termbar",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jebi",
+          "description": "jebi is a modern terminal emulator for Mac with built-in local AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T13:15:52Z",
+            "owner": "jebi-sh",
+            "repo": "jebi",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enso",
+          "description": "A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T12:33:31Z",
+            "owner": "amanfromsolan",
+            "repo": "enso",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TermCanvas",
+          "description": "macOS desktop app that arranges tmux-backed terminal sessions as draggable nodes on an infinite canvas for steering multiple AI coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-02T04:02:27Z",
+            "owner": "lout33",
+            "repo": "termcanvas",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinkTerm",
+          "description": "Self-hosted web terminal where AI shares your PTY session; in-terminal chat, SSH, and an HTTP Agent API for remote ops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T16:59:36Z",
+            "owner": "Cznorth",
+            "repo": "winkterm",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sinclair",
+          "description": "A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. https://wess.io/sinclair/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T14:57:43Z",
+            "owner": "wess",
+            "repo": "sinclair",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal Workspace",
+          "description": "Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-29T06:41:16Z",
+            "owner": "EvanAI0331",
+            "repo": "terminal-workspace",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xterm.js",
+          "description": "A terminal for the web. https://xtermjs.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:39:43Z",
+            "owner": "xtermjs",
+            "repo": "xterm.js",
+            "stars": 21046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electerm",
+          "description": "Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). https://electerm.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:12:47Z",
+            "owner": "electerm",
+            "repo": "electerm",
+            "stars": 14737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Terminal Emulator",
+          "description": "library for creating web based terminals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T19:23:39Z",
+            "owner": "jcubic",
+            "repo": "jquery.terminal",
+            "stars": 3239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnderShell 3000",
+          "description": "Retro looking terminal in CSS https://crt.no/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-06-25T20:47:43Z",
+            "owner": "andersevenrud",
+            "repo": "retro-css-shell-demo",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yetty",
+          "description": "New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:34:38Z",
+            "owner": "zokrezyl",
+            "repo": "yetty",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinkTerm",
+          "description": "Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T16:59:36Z",
+            "owner": "Cznorth",
+            "repo": "winkterm",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Terminal",
+          "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:15:56Z",
+            "owner": "microsoft",
+            "repo": "terminal",
+            "stars": 104591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "A terminal for a more modern age (formerly Terminus) https://tabby.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:03:12Z",
+            "owner": "Eugeny",
+            "repo": "tabby",
+            "stars": 73892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alacritty",
+          "description": "A cross-platform, GPU-accelerated terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eDEX-UI",
+          "description": "[DEPRECATED] A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-19T22:38:47Z",
+            "owner": "GitSquared",
+            "repo": "edex-ui",
+            "stars": 45042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper",
+          "description": "A terminal built on web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T11:03:02Z",
+            "owner": "vercel",
+            "repo": "hyper",
+            "stars": 44691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wezterm",
+          "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. https://wezfurlong.org/wezterm/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cmder",
+          "description": "Lovely console emulator package for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-03T15:54:03Z",
+            "owner": "cmderdev",
+            "repo": "cmder",
+            "stars": 26986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electerm",
+          "description": "Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). https://electerm.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:12:47Z",
+            "owner": "electerm",
+            "repo": "electerm",
+            "stars": 14737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosh",
+          "description": "Mobile Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-22T20:20:13Z",
+            "owner": "mobile-shell",
+            "repo": "mosh",
+            "stars": 14333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Terminal",
+          "description": "A Terminal Emulator based on UWP and web technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-22T12:00:12Z",
+            "owner": "felixse",
+            "repo": "FluentTerminal",
+            "stars": 9607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConEmu",
+          "description": "Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-07T22:10:41Z",
+            "owner": "ConEmu",
+            "repo": "ConEmu",
+            "stars": 9240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rio",
+          "description": "A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:46:11Z",
+            "owner": "raphamorim",
+            "repo": "rio",
+            "stars": 7332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wsltty",
+          "description": "Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-02T17:17:02Z",
+            "owner": "mintty",
+            "repo": "wsltty",
+            "stars": 3198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConsoleZ",
+          "description": "Windows console window enhancement. It is a fork of Console project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-06T13:29:02Z",
+            "owner": "cbucher",
+            "repo": "console",
+            "stars": 2918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extraterm",
+          "description": "The swiss army chainsaw of terminal emulators. https://extraterm.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T17:32:51Z",
+            "owner": "sedwards2009",
+            "repo": "extraterm",
+            "stars": 2820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminology",
+          "description": "The best terminal emulator based on the Enlightenment Foundation Libraries http://terminolo.gy/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-11T15:35:15Z",
+            "owner": "borisfaure",
+            "repo": "terminology",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bobcat",
+          "description": "A modern, feature-rich, cross-platform terminal emulator built with U++ framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T20:08:37Z",
+            "owner": "ismail-yilmaz",
+            "repo": "Bobcat",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yetty",
+          "description": "New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:34:38Z",
+            "owner": "zokrezyl",
+            "repo": "yetty",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PowerShell",
+          "description": "PowerShell for every system!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:52:09Z",
+            "owner": "PowerShell",
+            "repo": "PowerShell",
+            "stars": 54818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nu Shell",
+          "description": "A new type of shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T17:21:03Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fish",
+          "description": "The user-friendly command line shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T17:00:07Z",
+            "owner": "fish-shell",
+            "repo": "fish-shell",
+            "stars": 34011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xonsh",
+          "description": "🐚 Python-powered, cross-platform, Unix-gazing shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:31:11Z",
+            "owner": "xonsh",
+            "repo": "xonsh",
+            "stars": 9599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oils",
+          "description": "Oils is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T03:03:03Z",
+            "owner": "oils-for-unix",
+            "repo": "oils",
+            "stars": 3379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Murex",
+          "description": "A smarter shell and scripting environment with advanced features designed for usability, safety and productivity https://murex.rocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T21:08:38Z",
+            "owner": "lmorg",
+            "repo": "murex",
+            "stars": 1903
+          }
+        }
+      ],
+      "title": "Shells"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neofetch",
+          "description": "A command-line system information tool written in bash 3.2+.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-07-19T20:19:01Z",
+            "owner": "dylanaraps",
+            "repo": "neofetch",
+            "stars": 23716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashtop",
+          "description": "Linux resource monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-21T03:58:13Z",
+            "owner": "aristocratos",
+            "repo": "bashtop",
+            "stars": 11119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ble.sh",
+          "description": "Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T21:18:40Z",
+            "owner": "akinomyoga",
+            "repo": "ble.sh",
+            "stars": 4605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fff",
+          "description": "📁 A simple file manager written in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-02-29T19:41:14Z",
+            "owner": "dylanaraps",
+            "repo": "fff",
+            "stars": 4195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsix",
+          "description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-20T15:12:30Z",
+            "owner": "hackerb9",
+            "repo": "lsix",
+            "stars": 4173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screenfetch",
+          "description": "Fetches system/theme information in terminal for Linux desktop screenshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-02T03:08:18Z",
+            "owner": "KittyKatt",
+            "repo": "screenFetch",
+            "stars": 4068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p2pvc",
+          "description": "A point to point color terminal video chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-01T18:13:31Z",
+            "owner": "mofarrell",
+            "repo": "p2pvc",
+            "stars": 2894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "desk",
+          "description": "A lightweight workspace manager for the shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-07-07T17:57:09Z",
+            "owner": "jamesob",
+            "repo": "desk",
+            "stars": 2576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensible Bash",
+          "description": "An attempt at saner Bash defaults. https://github.com/mrzool/bash-sensible/blob/master/sensible.bash",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-17T19:31:36Z",
+            "owner": "mrzool",
+            "repo": "bash-sensible",
+            "stars": 2123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emojify",
+          "description": "Emoji on the command line 😱.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-08T15:26:52Z",
+            "owner": "mrowa44",
+            "repo": "emojify",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pwd.sh",
+          "description": "GPG symmetric password manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T15:55:25Z",
+            "owner": "drduh",
+            "repo": "pwd.sh",
+            "stars": 1564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gg",
+          "description": "[DEPRECATED] Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts https://git.io/gitgoodies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-11T19:40:01Z",
+            "owner": "qw3rtman",
+            "repo": "gg",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basher",
+          "description": "A package manager for shell scripts. https://www.basher.it/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-18T15:30:04Z",
+            "owner": "basherpm",
+            "repo": "basher",
+            "stars": 1296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettyping",
+          "description": "is a wrapper around the standard tool, making the output prettier, more colorful, more compact, and easier to read. http://denilsonsa.github.io/prettyping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-01T16:13:12Z",
+            "owner": "denilsonsa",
+            "repo": "prettyping",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slacktee",
+          "description": "slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-24T00:34:07Z",
+            "owner": "coursehero",
+            "repo": "slacktee",
+            "stars": 828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "has",
+          "description": "✅ checks presence of various command line tools and their versions on the path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-26T04:00:46Z",
+            "owner": "kdabir",
+            "repo": "has",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuck",
+          "description": "Fix command line spelling errors like it's 1999.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-30T18:49:14Z",
+            "owner": "EricFreeman",
+            "repo": "fuck",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dn",
+          "description": "Daily notes command line tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-15T23:30:12Z",
+            "owner": "tomlockwood",
+            "repo": "dn",
+            "stars": 250
+          }
+        }
+      ],
+      "title": "Bash"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmux",
+          "description": "tmux is a terminal multiplexer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "Command-line JSON processor. https://stedolan.github.io/jq/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zstd",
+          "description": "Zstandard - Fast real-time compression algorithm http://www.zstd.net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T14:13:42Z",
+            "owner": "facebook",
+            "repo": "zstd",
+            "stars": 27546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ag",
+          "description": "A code-searching tool similar to ack, but faster. https://geoff.greer.fm/ag/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-16T19:37:41Z",
+            "owner": "ggreer",
+            "repo": "the_silver_searcher",
+            "stars": 27107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastfetch",
+          "description": "Like neofetch, but much faster because written in c. Only Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:02:28Z",
+            "owner": "fastfetch-cli",
+            "repo": "fastfetch",
+            "stars": 24179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnn",
+          "description": "n³ The unorthodox terminal file manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:37:04Z",
+            "owner": "jarun",
+            "repo": "nnn",
+            "stars": 21781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttyd",
+          "description": "Share your terminal over the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:39:18Z",
+            "owner": "tsl0922",
+            "repo": "ttyd",
+            "stars": 12189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress",
+          "description": "Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-19T08:43:10Z",
+            "owner": "Xfennec",
+            "repo": "progress",
+            "stars": 8857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xhyve",
+          "description": "xhyve, a lightweight OS X virtualization solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-29T15:33:45Z",
+            "owner": "machyve",
+            "repo": "xhyve",
+            "stars": 6437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htop",
+          "description": "htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-11-17T07:00:48Z",
+            "owner": "hishamhm",
+            "repo": "htop",
+            "stars": 5901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chafa",
+          "description": "📺🗿 Terminal graphics for the 21st century.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T20:38:28Z",
+            "owner": "hpjansson",
+            "repo": "chafa",
+            "stars": 5125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jo",
+          "description": "JSON output from a shell. https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-20T09:47:47Z",
+            "owner": "jpmens",
+            "repo": "jo",
+            "stars": 4864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hstr",
+          "description": "bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T18:08:10Z",
+            "owner": "dvorka-oss",
+            "repo": "hstr",
+            "stars": 4451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vifm",
+          "description": "Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. https://github.com/vifm/vifm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T09:34:35Z",
+            "owner": "vifm",
+            "repo": "vifm",
+            "stars": 3234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smenu",
+          "description": "Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-17T22:14:15Z",
+            "owner": "p-gen",
+            "repo": "smenu",
+            "stars": 2491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashcat",
+          "description": "Advanced CPU-based password recovery utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-30T13:02:25Z",
+            "owner": "hashcat",
+            "repo": "hashcat-legacy",
+            "stars": 2200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yank",
+          "description": "Yank terminal output to clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T18:26:13Z",
+            "owner": "mptre",
+            "repo": "yank",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catimage",
+          "description": "🦦 Insanely fast image printing in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-07T08:59:37Z",
+            "owner": "posva",
+            "repo": "catimg",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mptun",
+          "description": "Multi-path Tunnel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-12-22T04:01:04Z",
+            "owner": "cloudwu",
+            "repo": "mptun",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atop",
+          "description": "System and process monitor for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-21T07:21:47Z",
+            "owner": "Atoptool",
+            "repo": "atop",
+            "stars": 1045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgcat",
+          "description": "It's like cat, but for images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-21T15:31:25Z",
+            "owner": "eddieantonio",
+            "repo": "imgcat",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "afetch",
+          "description": "Simple system info written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-02T16:05:42Z",
+            "owner": "13-CF",
+            "repo": "afetch",
+            "stars": 240
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flameshot",
+          "description": "Powerful yet simple to use screenshot software 🖥️ 📸.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:43:19Z",
+            "owner": "flameshot-org",
+            "repo": "flameshot",
+            "stars": 30612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winget",
+          "description": "Windows Package Manager CLI (aka winget).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:56:37Z",
+            "owner": "microsoft",
+            "repo": "winget-cli",
+            "stars": 26306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watchman",
+          "description": "Watches files and records, or triggers actions, when they change. https://facebook.github.io/watchman/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:47:23Z",
+            "owner": "facebook",
+            "repo": "watchman",
+            "stars": 13668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guetzli",
+          "description": "Perceptual JPEG encoder.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-22T19:41:10Z",
+            "owner": "google",
+            "repo": "guetzli",
+            "stars": 12916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openalpr",
+          "description": "Automatic License Plate Recognition library http://www.openalpr.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-11T02:23:51Z",
+            "owner": "openalpr",
+            "repo": "openalpr",
+            "stars": 11443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vtm",
+          "description": "Terminal multiplexer with TUI window manager and multi-party session sharing https://vtm.netxs.online/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T14:48:49Z",
+            "owner": "directvt",
+            "repo": "vtm",
+            "stars": 3357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timg",
+          "description": "A terminal image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T11:13:52Z",
+            "owner": "hzeller",
+            "repo": "timg",
+            "stars": 2720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timew",
+          "description": "Commandline Time Reporting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T15:00:08Z",
+            "owner": "GothenburgBitFactory",
+            "repo": "timewarrior",
+            "stars": 1639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mazegen",
+          "description": "Generate mazes of different shapes and arbitrary sizes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-06T10:30:48Z",
+            "owner": "razimantv",
+            "repo": "mazegenerator",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zindex",
+          "description": "Create an index on a compressed text file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-30T23:34:59Z",
+            "owner": "mattgodbolt",
+            "repo": "zindex",
+            "stars": 659
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "A command-line fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazygit",
+          "description": "Simple terminal UI for git commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:18Z",
+            "owner": "jesseduffield",
+            "repo": "lazygit",
+            "stars": 81275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkcert",
+          "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like. https://mkcert.dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-13T13:37:46Z",
+            "owner": "FiloSottile",
+            "repo": "mkcert",
+            "stars": 59447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dive",
+          "description": "A tool for exploring each layer in a docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-15T17:20:36Z",
+            "owner": "wagoodman",
+            "repo": "dive",
+            "stars": 54451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh",
+          "description": "GitHub’s official command line tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:38:41Z",
+            "owner": "cli",
+            "repo": "cli",
+            "stars": 45839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "croc",
+          "description": "Easily and securely send things from one computer to another 🐊 📦.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:25:53Z",
+            "owner": "schollz",
+            "repo": "croc",
+            "stars": 39707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro",
+          "description": "A modern and intuitive terminal-based text editor. https://micro-editor.github.io/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:28:46Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glow",
+          "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:56:16Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gum",
+          "description": "A tool for glamorous shell scripts 🎀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:41:12Z",
+            "owner": "charmbracelet",
+            "repo": "gum",
+            "stars": 24217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": "A command-line tool that makes git easier to use with GitHub. https://hub.github.com/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-02T21:00:44Z",
+            "owner": "mislav",
+            "repo": "hub",
+            "stars": 22955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goaccess",
+          "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. https://goaccess.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T01:20:34Z",
+            "owner": "allinurl",
+            "repo": "goaccess",
+            "stars": 20772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotty",
+          "description": "Share your terminal as a web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-01T18:50:55Z",
+            "owner": "yudai",
+            "repo": "gotty",
+            "stars": 19544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browsh",
+          "description": "A fully-modern text-based browser, rendering to TTY and browsers. https://www.brow.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-11T16:33:02Z",
+            "owner": "browsh-org",
+            "repo": "browsh",
+            "stars": 18978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtf",
+          "description": "The personal information dashboard for your terminal. http://wtfutil.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T23:33:13Z",
+            "owner": "wtfutil",
+            "repo": "wtf",
+            "stars": 17052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "direnv",
+          "description": "unclutter your .profile. http://direnv.net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-31T18:52:06Z",
+            "owner": "direnv",
+            "repo": "direnv",
+            "stars": 15354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duf",
+          "description": "Disk Usage/Free Utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-13T11:07:14Z",
+            "owner": "muesli",
+            "repo": "duf",
+            "stars": 15260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sampler",
+          "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. https://sampler.dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-22T10:21:15Z",
+            "owner": "sqshq",
+            "repo": "sampler",
+            "stars": 14736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheat",
+          "description": "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-19T16:11:23Z",
+            "owner": "cheat",
+            "repo": "cheat",
+            "stars": 13421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slides",
+          "description": "Terminal based presentation tool https://maaslalani.com/slides/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T18:44:50Z",
+            "owner": "maaslalani",
+            "repo": "slides",
+            "stars": 11613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "comcast",
+          "description": "Simulating shitty network connections so you can build better systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-20T15:58:13Z",
+            "owner": "tylertreat",
+            "repo": "comcast",
+            "stars": 10511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qrcp",
+          "description": "Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. https://claudiodangelis.com/qrcp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-18T20:44:55Z",
+            "owner": "claudiodangelis",
+            "repo": "qrcp",
+            "stars": 10495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screego",
+          "description": "Screen sharing for developers. https://screego.net/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T08:41:53Z",
+            "owner": "screego",
+            "repo": "server",
+            "stars": 10493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termshark",
+          "description": "A terminal UI for tshark, inspired by Wireshark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-30T06:15:11Z",
+            "owner": "gcla",
+            "repo": "termshark",
+            "stars": 9956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "up",
+          "description": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-05T21:31:37Z",
+            "owner": "akavel",
+            "repo": "up",
+            "stars": 8838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scc",
+          "description": "Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:08:59Z",
+            "owner": "boyter",
+            "repo": "scc",
+            "stars": 8619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wego",
+          "description": "weather app for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T14:53:35Z",
+            "owner": "schachmat",
+            "repo": "wego",
+            "stars": 8529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pup",
+          "description": "Parsing HTML at the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-02T13:43:38Z",
+            "owner": "ericchiang",
+            "repo": "pup",
+            "stars": 8439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotop",
+          "description": "[DEPRECATED] A terminal based graphical activity monitor inspired by gtop and vtop.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-03-30T19:45:21Z",
+            "owner": "cjbassi",
+            "repo": "gotop",
+            "stars": 7407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ticker",
+          "description": "Terminal stock ticker with live updates and position tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-28T21:50:24Z",
+            "owner": "achannarasappa",
+            "repo": "ticker",
+            "stars": 6189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bit",
+          "description": "Bit is a modern Git CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-21T19:06:59Z",
+            "owner": "chriswalz",
+            "repo": "bit",
+            "stars": 6102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noti",
+          "description": "Monitor a process and trigger a notification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-05-01T20:38:04Z",
+            "owner": "variadico",
+            "repo": "noti",
+            "stars": 4866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plow",
+          "description": "A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-28T15:48:39Z",
+            "owner": "six-ddc",
+            "repo": "plow",
+            "stars": 4515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cointop",
+          "description": "The fastest and most interactive terminal based UI application for tracking cryptocurrencies. https://cointop.sh",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-07T22:46:01Z",
+            "owner": "cointop-sh",
+            "repo": "cointop",
+            "stars": 4398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fsql",
+          "description": "Search through your filesystem with SQL-esque queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T22:00:12Z",
+            "owner": "kashav",
+            "repo": "fsql",
+            "stars": 3987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghq",
+          "description": "Remote repository management made easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T09:16:33Z",
+            "owner": "x-motemen",
+            "repo": "ghq",
+            "stars": 3729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curlie",
+          "description": "The power of curl, the ease of use of httpie. https://curlie.io/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-07T20:14:24Z",
+            "owner": "rs",
+            "repo": "curlie",
+            "stars": 3709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reflex",
+          "description": "Run a command when files change.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-26T23:46:55Z",
+            "owner": "cespare",
+            "repo": "reflex",
+            "stars": 3548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devd",
+          "description": "A local webserver for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-21T07:50:44Z",
+            "owner": "cortesi",
+            "repo": "devd",
+            "stars": 3476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccat",
+          "description": "Colorizing .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-05T17:44:40Z",
+            "owner": "owenthereal",
+            "repo": "ccat",
+            "stars": 3208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webtty",
+          "description": "Share a terminal session over WebRTC https://maxmcd.github.io/webtty/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-11T22:46:02Z",
+            "owner": "maxmcd",
+            "repo": "webtty",
+            "stars": 2814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s",
+          "description": "Open a web search in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T03:07:50Z",
+            "owner": "zquestz",
+            "repo": "s",
+            "stars": 2592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piknik",
+          "description": "Copy/paste anything over the network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-13T11:32:06Z",
+            "owner": "jedisct1",
+            "repo": "piknik",
+            "stars": 2515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtop",
+          "description": "rtop is an interactive, remote system monitoring tool based on SSH. http://www.rtop-monitor.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-06T14:35:54Z",
+            "owner": "rapidloop",
+            "repo": "rtop",
+            "stars": 2190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3mux",
+          "description": "Terminal multiplexer inspired by i3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T22:59:39Z",
+            "owner": "aaronjanse",
+            "repo": "3mux",
+            "stars": 1851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hostyoself",
+          "description": "Host yo' self from your browser, your phone, your toaster. https://hostyoself.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-18T15:06:08Z",
+            "owner": "schollz",
+            "repo": "hostyoself",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mole",
+          "description": "cli app to create ssh tunnels https://davrodpin.github.io/mole/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-13T11:00:20Z",
+            "owner": "davrodpin",
+            "repo": "mole",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grit",
+          "description": "Multitree-based personal task manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-01T22:10:19Z",
+            "owner": "climech",
+            "repo": "grit",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperfox",
+          "description": "HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-17T13:22:14Z",
+            "owner": "malfunkt",
+            "repo": "hyperfox",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frangipanni",
+          "description": "Program to convert lines of text into a tree structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-22T06:09:03Z",
+            "owner": "birchb1024",
+            "repo": "frangipanni",
+            "stars": 1196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "switcher",
+          "description": "Run SSH and HTTP(S) on the same port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-15T13:19:58Z",
+            "owner": "jamescun",
+            "repo": "switcher",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ran",
+          "description": "a simple static web server written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-24T19:27:39Z",
+            "owner": "m3ng9i",
+            "repo": "ran",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "furious",
+          "description": "Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:32:22Z",
+            "owner": "liamg",
+            "repo": "furious",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggc",
+          "description": "A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T00:11:49Z",
+            "owner": "bmf-san",
+            "repo": "ggc",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goterpix",
+          "description": "Draw pixel art images with Ansi Escape code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-29T09:57:09Z",
+            "owner": "FinecoFinit",
+            "repo": "goterpix",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inlets",
+          "description": "Expose your local endpoints to the Internet. https://blog.alexellis.io/https-inlets-local-endpoints/",
+          "children": []
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pandoc",
+          "description": "Universal markup converter https://pandoc.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-13T03:22:36Z",
+            "owner": "jgm",
+            "repo": "pandoc",
+            "stars": 45834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shellcheck",
+          "description": "ShellCheck, a static analysis tool for shell scripts. https://www.shellcheck.net/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-04T08:32:46Z",
+            "owner": "koalaman",
+            "repo": "shellcheck",
+            "stars": 39858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bench",
+          "description": "Command-line benchmark tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-09-02T17:27:37Z",
+            "owner": "Gabriella439",
+            "repo": "bench",
+            "stars": 909
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tldr",
+          "description": "Collaborative cheatsheets for console commands https://tldr.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-12T23:40:31Z",
+            "owner": "tldr-pages",
+            "repo": "tldr",
+            "stars": 63391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zx",
+          "description": "A tool for writing better scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T10:24:08Z",
+            "owner": "google",
+            "repo": "zx",
+            "stars": 45664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nativefier",
+          "description": "Make any web page a desktop application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-09-29T13:45:16Z",
+            "owner": "nativefier",
+            "repo": "nativefier",
+            "stars": 35288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminalizer",
+          "description": "🦄 Record your terminal and generate animated gif images or share a web player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readme",
+          "description": "CLI that generates beautiful README.md files. https://www.npmjs.com/package/readme-md-generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T10:09:51Z",
+            "owner": "kefranabg",
+            "repo": "readme-md-generator",
+            "stars": 11129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gtop",
+          "description": "System monitoring dashboard for terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-06T13:55:02Z",
+            "owner": "aksakalli",
+            "repo": "gtop",
+            "stars": 9924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cash",
+          "description": "Cross-platform Linux commands in ES6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-14T08:48:46Z",
+            "owner": "dthree",
+            "repo": "cash",
+            "stars": 7737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fkill",
+          "description": "Fabulously kill processes. Cross-platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-09T09:58:29Z",
+            "owner": "sindresorhus",
+            "repo": "fkill-cli",
+            "stars": 6998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-stats",
+          "description": "🍀 Local git statistics including GitHub-like contributions calendars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-09T13:43:06Z",
+            "owner": "IonicaBizau",
+            "repo": "git-stats",
+            "stars": 6600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resume",
+          "description": "CLI tool to easily setup a new resume.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-06-12T11:44:14Z",
+            "owner": "jsonresume",
+            "repo": "resume-cli",
+            "stars": 4719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "percollate",
+          "description": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-29T18:07:40Z",
+            "owner": "danburzo",
+            "repo": "percollate",
+            "stars": 4662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vtop",
+          "description": "Wow such top. So stats. More better than regular top. http://parall.ax/vtop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-08T04:58:25Z",
+            "owner": "MrRio",
+            "repo": "vtop",
+            "stars": 4169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trash",
+          "description": "Move files and directories to the trash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-25T14:51:56Z",
+            "owner": "sindresorhus",
+            "repo": "trash",
+            "stars": 2667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdf-bot",
+          "description": "🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-07T17:14:23Z",
+            "owner": "esbenp",
+            "repo": "pdf-bot",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unfluff",
+          "description": "Automatically extract body content (and other cool stuff) from an html document.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-26T18:52:19Z",
+            "owner": "ageitgey",
+            "repo": "node-unfluff",
+            "stars": 2158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slim",
+          "description": "Build and run tiny vms from Dockerfiles. Small and sleek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T16:56:39Z",
+            "owner": "ottomatica",
+            "repo": "slim",
+            "stars": 2129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stacks-cli",
+          "description": "📊 Analyze website stack from the terminal 💻.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-25T02:24:28Z",
+            "owner": "WeiChiaChang",
+            "repo": "stacks-cli",
+            "stars": 1999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screenshoteer",
+          "description": "Make website screenshots and mobile emulations from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-25T02:32:05Z",
+            "owner": "vladocar",
+            "repo": "screenshoteer",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtail",
+          "description": "Terminal output to the browser in seconds, using UNIX pipes. http://rtail.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:46:54Z",
+            "owner": "kilianc",
+            "repo": "rtail",
+            "stars": 1612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catj",
+          "description": "Displays JSON files in a flat format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-14T18:33:44Z",
+            "owner": "soheilpro",
+            "repo": "catj",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "football",
+          "description": "⚽ Command line interface for Hackers who love football.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:48:21Z",
+            "owner": "manrajgrover",
+            "repo": "football-cli",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splash",
+          "description": "📸 Beautiful wallpapers from Unsplash 🖼️🛠️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-23T21:42:43Z",
+            "owner": "rawnly",
+            "repo": "splash-cli",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hn",
+          "description": "📰 CLI to browse Hacker News.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-07-21T22:34:38Z",
+            "owner": "rafaelrinaldi",
+            "repo": "hn-cli",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moro",
+          "description": "Simple CLI tool for tracking work hours https://moro.js.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-01T20:57:01Z",
+            "owner": "getmoro",
+            "repo": "moro",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentBox",
+          "description": "Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T22:10:45Z",
+            "owner": "madarco",
+            "repo": "agentbox",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overloop-cli",
+          "description": "AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-09T07:23:45Z",
+            "owner": "sortlist",
+            "repo": "overloop-cli",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signals-cli",
+          "description": "Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T09:44:04Z",
+            "owner": "sortlist",
+            "repo": "max-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youtube-dl-interactive",
+          "description": "Interactively select the quality and format for youtube-dl.",
+          "children": []
+        }
+      ],
+      "title": "Node"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yt-dlp",
+          "description": "A youtube-dl fork with additional features and fixes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:58:34Z",
+            "owner": "yt-dlp",
+            "repo": "yt-dlp",
+            "stars": 184124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youtube-dl",
+          "description": "Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T16:45:25Z",
+            "owner": "ytdl-org",
+            "repo": "youtube-dl",
+            "stars": 140949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuck",
+          "description": "Magnificent app which corrects your previous console command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-19T14:56:13Z",
+            "owner": "nvbn",
+            "repo": "thefuck",
+            "stars": 97643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tldr",
+          "description": "📚 Simplified and community-driven man pages https://tldr.sh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-12T23:40:31Z",
+            "owner": "tldr-pages",
+            "repo": "tldr",
+            "stars": 63391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "you-get",
+          "description": "⏬ Dumb downloader that scrapes the web https://you-get.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T08:02:33Z",
+            "owner": "soimort",
+            "repo": "you-get",
+            "stars": 56880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "face_recognition",
+          "description": "The world's simplest facial recognition api for Python and the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T11:12:50Z",
+            "owner": "ageitgey",
+            "repo": "face_recognition",
+            "stars": 56653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpie",
+          "description": "As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://httpie.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glances",
+          "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. http://nicolargo.github.io/glances/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:18:46Z",
+            "owner": "nicolargo",
+            "repo": "glances",
+            "stars": 33325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asciinema",
+          "description": "Terminal session recorder 📹 https://asciinema.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T01:24:35Z",
+            "owner": "asciinema",
+            "repo": "asciinema",
+            "stars": 17670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranger",
+          "description": "A VIM-inspired filemanager for the console https://ranger.github.io/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:03:32Z",
+            "owner": "ranger",
+            "repo": "ranger",
+            "stars": 17337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifiphisher",
+          "description": "The Rogue Access Point Framework https://wifiphisher.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T17:42:02Z",
+            "owner": "wifiphisher",
+            "repo": "wifiphisher",
+            "stars": 14764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mycli",
+          "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. http://mycli.net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:26:46Z",
+            "owner": "dbcli",
+            "repo": "mycli",
+            "stars": 11961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datasette",
+          "description": "A tool for exploring and publishing data. http://datasette.readthedocs.io/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:03:32Z",
+            "owner": "simonw",
+            "repo": "datasette",
+            "stars": 11381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpytop",
+          "description": "Linux/OSX/FreeBSD resource monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-01T20:57:08Z",
+            "owner": "aristocratos",
+            "repo": "bpytop",
+            "stars": 10917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-prompt",
+          "description": "HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting. http://http-prompt.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T06:03:21Z",
+            "owner": "httpie",
+            "repo": "http-prompt",
+            "stars": 9108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buku",
+          "description": "Browser-independent bookmark manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:32:28Z",
+            "owner": "jarun",
+            "repo": "buku",
+            "stars": 7176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "howmanypeoplearearound",
+          "description": "Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-17T14:14:41Z",
+            "owner": "schollz",
+            "repo": "howmanypeoplearearound",
+            "stars": 7091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xxh",
+          "description": "🚀 Bring your favorite shell wherever you go through the ssh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fpp",
+          "description": "PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. http://facebook.github.io/PathPicker/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-05T13:30:40Z",
+            "owner": "facebook",
+            "repo": "PathPicker",
+            "stars": 5223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "present",
+          "description": "A terminal-based presentation tool with colors and effects. https://present.readthedocs.io/en/latest/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T13:24:05Z",
+            "owner": "vinayak-mehta",
+            "repo": "present",
+            "stars": 4342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rockstar",
+          "description": "Makes you a Rockstar C++ Programmer in 2 minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-21T03:59:48Z",
+            "owner": "avinassh",
+            "repo": "rockstar",
+            "stars": 4191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hn",
+          "description": "Browse Hacker News like a haxor: A Hacker News command line interface (CLI).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-22T02:41:12Z",
+            "owner": "donnemartin",
+            "repo": "haxor-news",
+            "stars": 4088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statuspage",
+          "description": "A statuspage generator that lets you host your statuspage for free on Github.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-15T03:21:27Z",
+            "owner": "jayfk",
+            "repo": "statuspage",
+            "stars": 3874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stellar",
+          "description": "Fast database snapshot and restore tool for development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-13T16:53:12Z",
+            "owner": "fastmonkeys",
+            "repo": "stellar",
+            "stars": 3852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kb",
+          "description": "A minimalist command line knowledge base manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-21T22:37:31Z",
+            "owner": "gnebbia",
+            "repo": "kb",
+            "stars": 3414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legofy",
+          "description": "Make images look as if they are made out of 1x1 LEGO blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-25T02:43:39Z",
+            "owner": "JuanPotato",
+            "repo": "Legofy",
+            "stars": 3178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outrun",
+          "description": "Execute a local command using the processing power of another Linux machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T20:32:43Z",
+            "owner": "Overv",
+            "repo": "outrun",
+            "stars": 3134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itermocil",
+          "description": "Create pre-defined window/pane layouts and run commands in iTerm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-19T22:22:32Z",
+            "owner": "TomAnthony",
+            "repo": "itermocil",
+            "stars": 2375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twtxt",
+          "description": "Decentralised, minimalist microblogging service for hackers. https://twtxt.readthedocs.io/en/stable/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-23T12:10:52Z",
+            "owner": "buckket",
+            "repo": "twtxt",
+            "stars": 2237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkchecker",
+          "description": "check links in web documents or full websites. http://wummel.github.io/linkchecker/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-07T20:11:52Z",
+            "owner": "wummel",
+            "repo": "linkchecker",
+            "stars": 1434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashhub",
+          "description": "Bash history in the cloud. Indexed and searchable. https://bashhub.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T21:38:05Z",
+            "owner": "rcaloras",
+            "repo": "bashhub-client",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soccer",
+          "description": "⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:34:32Z",
+            "owner": "architv",
+            "repo": "soccer-cli",
+            "stars": 1127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jungle",
+          "description": "AWS operations by cli should be simpler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-17T07:27:09Z",
+            "owner": "achiku",
+            "repo": "jungle",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termius",
+          "description": "CLI for the ssh client Termius https://termius.com.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-16T08:06:18Z",
+            "owner": "termius",
+            "repo": "termius-cli",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "td",
+          "description": "A todo command line todo manager ✔️ https://pypi.org/project/td-cli/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T01:50:00Z",
+            "owner": "darrikonn",
+            "repo": "td-cli",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yts",
+          "description": "A Python script to download yts movies with the help of transmission-gtk torrent client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:46:47Z",
+            "owner": "darkHarry",
+            "repo": "yts-cli",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "passtui",
+          "description": "The terminal user interface for pass, the standard unix password manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T02:28:03Z",
+            "owner": "fjmoralesp",
+            "repo": "passtui",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py",
+          "description": "the swiss army knife of the command line.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "repk",
+          "description": "open a remote repo locally quickly",
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmuxinator",
+          "description": "Manage complex tmux sessions easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-10T15:17:11Z",
+            "owner": "tmuxinator",
+            "repo": "tmuxinator",
+            "stars": 13703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teamocil",
+          "description": "Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-03-10T12:26:11Z",
+            "owner": "remi",
+            "repo": "teamocil",
+            "stars": 2407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htty",
+          "description": "htty is the HTTP TTY, a console application for interacting with web servers. http://htty.github.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-01-03T02:19:06Z",
+            "owner": "htty",
+            "repo": "htty",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doing",
+          "description": "A command line tool for remembering what you were doing and tracking what you've done.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T04:36:21Z",
+            "owner": "ttscoff",
+            "repo": "doing",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facebook-cli",
+          "description": "💻 Facebook command line tool https://asciinema.org/a/87129",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-05-12T11:59:16Z",
+            "owner": "specious",
+            "repo": "facebook-cli",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hibp",
+          "description": "A simple tool to check a bunch of email addresses against the Have I Been Pwned API. https://rubygems.org/gems/hibp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-07-18T09:38:26Z",
+            "owner": "michenriksen",
+            "repo": "hibp",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rg",
+          "description": "ripgrep recursively searches directories for a regex pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 67267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "A cat(1) clone with wings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "starship",
+          "description": "☄🌌️ The cross-shell prompt for astronauts. https://starship.rs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T03:49:25Z",
+            "owner": "starship",
+            "repo": "starship",
+            "stars": 59375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hx",
+          "description": "A post-modern modal text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "A simple, fast and user-friendly alternative to 'find'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "z",
+          "description": "A faster way to navigate your filesystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "A smarter cd command. Supports all major shells.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zellij",
+          "description": "A terminal workspace with batteries included. https://zellij.dev/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:26:33Z",
+            "owner": "zellij-org",
+            "repo": "zellij",
+            "stars": 34864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": "A viewer for git and diff output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T00:01:16Z",
+            "owner": "dandavison",
+            "repo": "delta",
+            "stars": 31728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atuin",
+          "description": "✨ Magical shell history https://atuin.sh/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:56:34Z",
+            "owner": "atuinsh",
+            "repo": "atuin",
+            "stars": 31132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperfine",
+          "description": "A command-line benchmarking tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:23:25Z",
+            "owner": "sharkdp",
+            "repo": "hyperfine",
+            "stars": 28650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "difft",
+          "description": "a structural diff that understands syntax 🟥🟩",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T09:27:31Z",
+            "owner": "Wilfred",
+            "repo": "difftastic",
+            "stars": 25760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exa",
+          "description": "[DEPRECATED] A modern version of ‘ls’. https://the.exa.website/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-24T15:18:09Z",
+            "owner": "ogham",
+            "repo": "exa",
+            "stars": 24439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreutils",
+          "description": "Cross-platform Rust rewrite of the GNU coreutils.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:46:26Z",
+            "owner": "uutils",
+            "repo": "coreutils",
+            "stars": 23921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "A modern version of ‘ls’. https://eza.rocks/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spt",
+          "description": "Spotify for the terminal written in Rust 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-04T15:03:12Z",
+            "owner": "Rigellute",
+            "repo": "spotify-tui",
+            "stars": 19296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "navi",
+          "description": "An interactive cheatsheet tool for the command-line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T09:05:10Z",
+            "owner": "denisidoro",
+            "repo": "navi",
+            "stars": 17423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsd",
+          "description": "The next gen ls command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T17:02:07Z",
+            "owner": "lsd-rs",
+            "repo": "lsd",
+            "stars": 16165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokei",
+          "description": "Count your code, quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-06T16:44:01Z",
+            "owner": "XAMPPRocky",
+            "repo": "tokei",
+            "stars": 14793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btm",
+          "description": "Yet another cross-platform graphical process/system monitor. https://clementtsang.github.io/bottom/nightly/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:43Z",
+            "owner": "ClementTsang",
+            "repo": "bottom",
+            "stars": 13881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "br",
+          "description": "A new way to see and navigate directory trees https://dystroy.org/broot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:36:58Z",
+            "owner": "Canop",
+            "repo": "broot",
+            "stars": 12889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gping",
+          "description": "Ping, but with a graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T10:33:12Z",
+            "owner": "orf",
+            "repo": "gping",
+            "stars": 12617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dust",
+          "description": "A more intuitive version of du in rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T22:55:41Z",
+            "owner": "bootandy",
+            "repo": "dust",
+            "stars": 12113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bandwhich",
+          "description": "Terminal bandwidth utilization tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T01:34:33Z",
+            "owner": "imsnif",
+            "repo": "bandwhich",
+            "stars": 11896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsv",
+          "description": "A fast CSV command line toolkit written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-04-24T13:09:22Z",
+            "owner": "BurntSushi",
+            "repo": "xsv",
+            "stars": 10756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexyl",
+          "description": "A command-line hex viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:24:07Z",
+            "owner": "sharkdp",
+            "repo": "hexyl",
+            "stars": 10254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grex",
+          "description": "A command-line tool and library for generating regular expressions from user-provided test cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-27T17:22:36Z",
+            "owner": "pemistahl",
+            "repo": "grex",
+            "stars": 8167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xh",
+          "description": "Friendly and fast tool for sending HTTP requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T14:01:17Z",
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcfly",
+          "description": "Fly through your shell history. Great Scott!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-14T01:07:32Z",
+            "owner": "cantino",
+            "repo": "mcfly",
+            "stars": 7777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd",
+          "description": "Intuitive find & replace CLI (sed alternative).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-25T19:26:21Z",
+            "owner": "chmln",
+            "repo": "sd",
+            "stars": 7295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dog",
+          "description": "A command-line DNS client. https://dns.lookup.dog/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-29T11:36:13Z",
+            "owner": "ogham",
+            "repo": "dog",
+            "stars": 6687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pastel",
+          "description": "A command-line tool to generate, analyze, convert and manipulate colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-01T02:19:26Z",
+            "owner": "sharkdp",
+            "repo": "pastel",
+            "stars": 6448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tldr",
+          "description": "A very fast implementation of tldr in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:48:40Z",
+            "owner": "tealdeer-rs",
+            "repo": "tealdeer",
+            "stars": 6415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "procs",
+          "description": "A modern replacement for ps written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:07:54Z",
+            "owner": "dalance",
+            "repo": "procs",
+            "stars": 6131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dua",
+          "description": "View disk space usage and delete unwanted data, fast. https://lib.rs/crates/dua-cli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:53:12Z",
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rustnet",
+          "description": "A cross-platform network monitoring TUI with process identification and deep packet inspection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:16:54Z",
+            "owner": "domcyrus",
+            "repo": "rustnet",
+            "stars": 4845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amp",
+          "description": "A complete text editor for your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T02:01:13Z",
+            "owner": "jmacdonald",
+            "repo": "amp",
+            "stars": 4119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "findomain",
+          "description": "The fastest and cross-platform subdomain enumerator, don't waste your time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T13:06:33Z",
+            "owner": "Findomain",
+            "repo": "Findomain",
+            "stars": 3783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joshuto",
+          "description": "ranger-like terminal file manager written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T02:00:51Z",
+            "owner": "kamiyaa",
+            "repo": "joshuto",
+            "stars": 3720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viu",
+          "description": "Simple terminal image viewer written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-15T10:20:59Z",
+            "owner": "atanunq",
+            "repo": "viu",
+            "stars": 3261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenith",
+          "description": "sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-13T15:16:01Z",
+            "owner": "bvaisvil",
+            "repo": "zenith",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loc",
+          "description": "Count lines of code quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-21T20:06:03Z",
+            "owner": "cgag",
+            "repo": "loc",
+            "stars": 2457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rq",
+          "description": "Record Query - A tool for doing record analysis and transformation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-21T18:27:16Z",
+            "owner": "dflemstr",
+            "repo": "rq",
+            "stars": 2300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "choose",
+          "description": "A human-friendly and fast alternative to cut and (sometimes) awk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-11T13:02:35Z",
+            "owner": "theryangeary",
+            "repo": "choose",
+            "stars": 2261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atm",
+          "description": "Command line tool for generating and working with MIDI files.http://allthemusic.info",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-29T21:18:42Z",
+            "owner": "allthemusicllc",
+            "repo": "atm-cli",
+            "stars": 1412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tre",
+          "description": "Tree command, improved.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-03T20:56:21Z",
+            "owner": "dduan",
+            "repo": "tre",
+            "stars": 1214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eureka",
+          "description": "💡 CLI tool to input and store your ideas without leaving the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-04T06:12:54Z",
+            "owner": "simeg",
+            "repo": "eureka",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weztermocil",
+          "description": "Automatically create windows and panes in Wezterm via YAML configs (like Teamocil and iTermocil).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-12T22:52:57Z",
+            "owner": "alexcaza",
+            "repo": "weztermocil",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nb",
+          "description": "CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. https://xwmx.github.io/nb/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:01:40Z",
+            "owner": "xwmx",
+            "repo": "nb",
+            "stars": 8352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "takeover.sh",
+          "description": "Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-27T10:25:35Z",
+            "owner": "marcan",
+            "repo": "takeover.sh",
+            "stars": 7330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansiweather",
+          "description": "Weather in terminal, with ANSI colors and Unicode symbols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T15:54:21Z",
+            "owner": "fcambus",
+            "repo": "ansiweather",
+            "stars": 1945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuxi",
+          "description": "Tuxi is a cli assistant. Get answers of your questions instantly.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-02-20T01:12:46Z",
+            "owner": "bugswriter",
+            "repo": "tuxi",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shellfire",
+          "description": "A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-12-14T08:58:38Z",
+            "owner": "shellfire-dev",
+            "repo": "shellfire",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-fzf-url",
+          "description": "🚀 Quickly open urls on terminal screen!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T01:12:11Z",
+            "owner": "wfxr",
+            "repo": "tmux-fzf-url",
+            "stars": 728
+          }
+        }
+      ],
+      "title": "sh"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mas",
+          "description": "📦 Mac App Store command line interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T15:04:58Z",
+            "owner": "mas-cli",
+            "repo": "mas",
+            "stars": 12294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m-cli",
+          "description": " Swiss Army Knife for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-02T18:15:16Z",
+            "owner": "rgcr",
+            "repo": "m-cli",
+            "stars": 9916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mac",
+          "description": " OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-28T02:21:48Z",
+            "owner": "guarinogabriel",
+            "repo": "Mac-CLI",
+            "stars": 9116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-cmd",
+          "description": "A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Awk",
+            "last_commit": "2026-08-10T12:15:30Z",
+            "owner": "x-cmd",
+            "repo": "x-cmd",
+            "stars": 4571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pfetch",
+          "description": "🐧 A pretty system information tool written in POSIX sh.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-02-03T22:34:25Z",
+            "owner": "dylanaraps",
+            "repo": "pfetch",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termtile",
+          "description": "Terminal window manager for OS X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2015-10-01T08:02:35Z",
+            "owner": "apaszke",
+            "repo": "termtile",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsusb",
+          "description": "lsusb command for Mac OS X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-09T06:29:17Z",
+            "owner": "jlhonora",
+            "repo": "lsusb",
+            "stars": 392
+          }
+        }
+      ],
+      "title": "sh (macOS)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "🔧 .files, including ~/.macos — sensible hacker defaults for macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-05T19:06:13Z",
+            "owner": "mathiasbynens",
+            "repo": "dotfiles",
+            "stars": 31449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles-public",
+          "description": "My personal dotfiles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T07:55:14Z",
+            "owner": "craftzdog",
+            "repo": "dotfiles",
+            "stars": 7142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-15T23:45:43Z",
+            "owner": "dikiaap",
+            "repo": "dotfiles",
+            "stars": 1484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "Settings for various tools I use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T13:22:34Z",
+            "owner": "nickjj",
+            "repo": "dotfriedrice",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "~/.dotfiles",
+          "description": "Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-12T13:31:43Z",
+            "owner": "max-baz",
+            "repo": "dotfiles",
+            "stars": 1079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-08T09:29:31Z",
+            "owner": "yutkat",
+            "repo": "dotfiles",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dot",
+          "description": "These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T23:52:11Z",
+            "owner": "makccr",
+            "repo": "dot",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "Configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-04-10T12:03:45Z",
+            "owner": "asmvik",
+            "repo": "dotfiles",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "Files that define my GNU/Linux box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-08-24T10:37:26Z",
+            "owner": "oppiliappan",
+            "repo": "dotfiles",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles.fish",
+          "description": "my own dotfiles ported to fish",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2023-05-24T03:42:44Z",
+            "owner": "caarlos0",
+            "repo": "dotfiles.fish",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dots",
+          "description": "My macOS dots :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-15T03:45:59Z",
+            "owner": "Who23",
+            "repo": "dots",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dots",
+          "description": "My dotfiles for Arch Linux and awesomeWM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-12-27T22:29:43Z",
+            "owner": "safinsingh",
+            "repo": "dots",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotfiles",
+          "description": "Various dotfiles, most notably for terminal email (aerc, isync, mailctl, mstmp(q), ranked addressbook etc), various terminals (kitty, contour, wezterm), zsh, ipython, vim, regolith and some git goodies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T07:11:30Z",
+            "owner": "ferdinandyb",
+            "repo": "dotfiles",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Dotfiles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pure bash bible",
+          "description": "A collection of pure bash alternatives to external processes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-11-28T03:26:23Z",
+            "owner": "dylanaraps",
+            "repo": "pure-bash-bible",
+            "stars": 41722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash-Snippets",
+          "description": "A collection of small bash scripts for heavy terminal users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-04T18:12:41Z",
+            "owner": "alexanderepstein",
+            "repo": "Bash-Snippets",
+            "stars": 9939
+          }
+        }
+      ],
+      "title": "Bash"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Art of Command Line",
+          "description": "Master the command line, in one page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-25T18:13:44Z",
+            "owner": "jlevy",
+            "repo": "the-art-of-command-line",
+            "stars": 162096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acme.sh",
+          "description": "A pure Unix shell script implementing ACME client protocol. https://acme.sh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T14:47:58Z",
+            "owner": "acmesh-official",
+            "repo": "acme.sh",
+            "stars": 47466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command Line Text Processing",
+          "description": "From finding text to search and replace, from sorting to beautifying text and more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-06-05T08:57:02Z",
+            "owner": "learnbyexample",
+            "repo": "Command-line-text-processing",
+            "stars": 10188
+          }
+        }
+      ],
+      "title": "sh"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:55.897Z",
+    "original_repository": "cdleon/awesome-terminals",
+    "original_repository_sha": "a97e9168a790d00462458e9499e9a93a9df009d0",
+    "enhanced_repository": "enhansome/enhansome-terminals",
+    "enhanced_repository_description": null,
+    "title": "awesome-terminals with stars"
+  }
+}
